@@ -30,3 +30,4 @@ Este projeto tem como objetivo desenvolver um banco de dados, contemplando as et
 | Nícolas Raphael Paschoal | 825125318 |
 | Felipe Neves de Carvalho | 82510459 |
 | Vitor Felix Costa | 825121829 |
+| Gabriel Rosa Bravo | 82515327 |
